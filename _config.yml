@@ -273,7 +273,7 @@ defaults:
   # _bio
   - scope:
       path: ""
-      type: team
+      type: bio
     values:
       layout: single
       author_profile: true
