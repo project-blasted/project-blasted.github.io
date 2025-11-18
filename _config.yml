@@ -270,10 +270,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _bio
+  # _team
   - scope:
       path: ""
-      type: bio
+      type: team
     values:
       layout: single
       author_profile: true
