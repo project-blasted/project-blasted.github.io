@@ -10,9 +10,10 @@ collection: team
 
 **Meteorological Accolades**
 * Millersville University Class of 2027 Meteorology Major
-* Minoring in Emergency Management
+* Minor in Emergency Management
 * Millersville Campus Weather Service Lead Forecaster
 * Member of Millersville University’s AMS Student Chapter (MU-AMS)
+* Co-Lead of MU-AMS sub club Millersville Storm Track (MiST)
 * Trained SKYWARN storm spotter
 
 
