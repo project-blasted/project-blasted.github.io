@@ -2,6 +2,7 @@
 title: "Jack Zwolinski"
 excerpt: "Project Member<br/>"
 collection: team
+category: member
 ---
 
 

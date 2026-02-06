@@ -2,6 +2,7 @@
 title: "Kayla Rooney"
 excerpt: "Project Member<br/>"
 collection: team
+category: member
 ---
 
 

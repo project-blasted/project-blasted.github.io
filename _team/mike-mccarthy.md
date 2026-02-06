@@ -2,6 +2,7 @@
 title: "Mike McCarthy"
 excerpt: "Project Member<br/>"
 collection: team
+category: member
 ---
 
 

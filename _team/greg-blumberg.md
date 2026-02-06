@@ -2,6 +2,7 @@
 title: "Dr. Greg Blumberg"
 excerpt: "Project Advisor<br/>"
 collection: team
+category: advisor
 ---
 
 ![Greggy](/images/blumberg.jpg)

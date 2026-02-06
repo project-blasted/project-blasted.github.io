@@ -2,6 +2,7 @@
 title: "Ciara Longo"
 excerpt: "Project Co-Lead<br/>"
 collection: team
+category: lead
 ---
 
 <img src="/images/ciara-longo.jpg" alt="Ciara Longo" width="384" height="384">
