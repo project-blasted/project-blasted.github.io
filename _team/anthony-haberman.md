@@ -2,7 +2,7 @@
 title: "Anthony Haberman"
 excerpt: "Project Commitee Member<br/>"
 collection: team
-category: commitee
+category: committee
 ---
 
 <img src="/images/anthony-haberman.jpg" alt="Anthony Haberman" width="384" height="384">
