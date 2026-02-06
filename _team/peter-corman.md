@@ -2,6 +2,7 @@
 title: "Peter Corman"
 excerpt: "Project Member<br/>"
 collection: team
+category: member
 ---
 
 
