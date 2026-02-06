@@ -2,6 +2,7 @@
 title: "Mitchell Cokain"
 excerpt: "Project Member<br/>"
 collection: team
+category: member
 ---
 
 
