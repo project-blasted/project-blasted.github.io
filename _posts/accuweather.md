@@ -1,6 +1,6 @@
 ---
 title: 'AccuWeather'
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/accuweather/
 
 ---
 # AccuWeather
