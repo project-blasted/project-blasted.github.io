@@ -2,6 +2,7 @@
 title: "Melanie Jones"
 excerpt: "Project Co-Lead<br/>"
 collection: team
+category: lead
 ---
 
 <img src="/images/melanie-jones.jpg" alt="Melanie Jones" width="384" height="384">

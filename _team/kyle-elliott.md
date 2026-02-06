@@ -2,6 +2,7 @@
 title: "Kyle Elliott"
 excerpt: "Project Advisor<br/>"
 collection: team
+category: advisor
 ---
 
 

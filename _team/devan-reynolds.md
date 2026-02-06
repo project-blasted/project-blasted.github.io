@@ -2,6 +2,7 @@
 title: "Devan Reynolds"
 excerpt: "Project Member<br/>"
 collection: team
+category: member
 ---
 
 

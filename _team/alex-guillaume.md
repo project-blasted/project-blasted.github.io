@@ -2,6 +2,7 @@
 title: "Alex Guillaume"
 excerpt: "Project Member<br/>"
 collection: team
+category: member
 ---
 
 
