@@ -11,7 +11,7 @@ category: lead
 * Class of 2027 
 * Major in Meteorology
 * Minor in Environmental Hazards and Emergency Management
-* Campus Weather Service Forecaster
+* Campus Weather Service Lead Forecaster
 * Weather Balloon Team Member
 * MU-AMS Secretary ('25-'26)
 
