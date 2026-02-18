@@ -10,10 +10,11 @@ category: member
 
 
 **Meteorological Accolades**
-* Millersville University Class of 2028 Meteorology Major
-* Millersville Campus Weather Service Forecaster
-* Member of Millersville University's American Meteorological Society Student Chapter (MU-AMS)
-* Member of Millersville University's Weather Balloon Launch Team
+* Class of 2028 
+* Major in Meteorology
+* Campus Weather Service Forecaster
+* MU-AMS Webmaster ('25-'26)
+* Weather Balloon Team Lead
 
 
 **Biography**  
