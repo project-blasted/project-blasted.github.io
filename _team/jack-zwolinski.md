@@ -10,12 +10,13 @@ category: member
 
 
 **Meteorological Accolades**
-* Millersville University Class of 2027 Meteorology Major
-* Minoring in Geospatial Applications
-* Millersville University Campus Weather Service Lead Forecaster 
-* Member of Millersville University's American Meteorological Society Student Chapter (MU-AMS)
-* Trained SKYWARN storm spotter
-* Member of Millersville University's Weather Balloon Launch Team
+* Class of 2027 
+* Major in Meteorology
+* Minor in Geospatial Applications
+* Campus Weather Service Lead Forecaster 
+* MU-AMS Member
+* Weather Balloon Team Member
+* SKYWARN Spotter
 
 
 **Biography**  
