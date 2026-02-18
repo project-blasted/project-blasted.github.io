@@ -13,7 +13,7 @@ category: member
 * Class of 2027 
 * Major in Meteorology
 * Campus Weather Service Lead Forecaster
-* MU-AMS Member
+* MU-AMS Vice President ('25-'26)
 * SKYWARN Spotter
 
 
