@@ -228,10 +228,10 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
+  publications:
     output: true
     permalink: /:collection/:path/
-  publications:
+  sponsors:
     output: true
     permalink: /:collection/:path/
   team:
@@ -297,7 +297,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  # _sponsors
+  - scope:
+      path: ""
+      type: sponsors
+    values:
+      layout: sponsor
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
