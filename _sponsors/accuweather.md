@@ -2,7 +2,7 @@
 title: "AccuWeather"
 collection: sponsors
 permalink: /sponsors/accuweather
-excerpt: "AccuWeather recognizes the importance of accuracy and timely warnings to prevent injury and save lives. This involves providing clear and true communication to the public, while continuing the mission of public safety. We have offered TILTTING a corporate sponsorship, as the data acquired through their research will continue and further enhance the success of our mission. <br/><img src='/images/accu.png'>"
+excerpt: "AccuWeather recognizes the importance of accuracy and timely warnings to prevent injury and save lives. This involves providing clear and true communication to the public, while continuing the mission of public safety. We have offered TILTTING a corporate sponsorship, as the data acquired through their research will continue and further enhance the success of our mission. <br/><img src='/images/anthony-haberman.jpg'>"
 ---
 
 AccuWeather®, recognized and documented as the most accurate source of weather forecasts and warnings in the world, has saved tens of thousands of lives, prevented hundreds of thousands of injuries and tens of billions of dollars in property damage. With global headquarters in State College, PA and other offices around the world, AccuWeather serves more than 1.5 billion people daily to help them plan their lives and get more out of their day through digital media properties, such as the AccuWeather.com® website and AccuWeather mobile application, as well as radio, television, newspapers, and the 24/7 AccuWeather Network channel and AccuWeather NOWTM streaming service. AccuWeather For Business serves more than half of Fortune 500 companies and thousands of businesses globally.
