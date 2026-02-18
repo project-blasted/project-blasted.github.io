@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to the Project TILTTING website"
+title: "Welcome to the Project BLASTED website"
 author_profile: true
 redirect_from: 
   - /about/
