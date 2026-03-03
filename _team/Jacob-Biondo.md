@@ -10,7 +10,7 @@ Category: member
 
 
 **Meteorological Accolades**
-* Class of 2024 
+* Class of 2026 
 * Major in Meteorology
 * Campus Weather Service Lead Forecaster
 * MU-AMS Member

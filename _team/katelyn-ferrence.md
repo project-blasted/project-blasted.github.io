@@ -16,6 +16,7 @@ category: member
 * Campus Weather Service Forecaster
 * MU-AMS Member
 * Weather Balloon Team Member
+* Space Weather Club Lead
 
 
 **Biography**  
