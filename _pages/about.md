@@ -18,4 +18,4 @@ Project BLASTED took inspriation from Dr. Greg Blumberg's dissertation
 # What We Do
 Attached is a link to bring you to the full PDF version of our proposal for the project. This includes our Thesis and Purpose, Background and Significance, Project Design, Expected Results and Application to Broader Community, Discussion and Interpretation of Results, and References. 
 
-Read our proposal [here]("C:\Users\ciara\Downloads\BLASTED Proposal.pdf")
+Read our proposal [here]("/files/BLASTED Proposal.pdf")
