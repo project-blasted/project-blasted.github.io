@@ -17,8 +17,8 @@ Project BLASTED took inspriation from Dr. Greg Blumberg's dissertation, along wi
 
 To learn more about Project TILTTING, click [here](/files/2024%20TILTTING%20PROPOSAL.pdf)
 To read Dr. Blumberg's dissertation, click [here](https://shareok.org/items/335275ad-261e-42a3-899b-b0ce31831dc8)
-# What We Do
 
+# What We Do
 Attached is a link to bring you to the full PDF version of our proposal for the project. This includes our Thesis and Purpose, Background and Significance, Project Design, Expected Results and Application to Broader Community, Discussion and Interpretation of Results, and References. 
 
 Read our proposal [here](/files/BLASTED Proposal.pdf)
