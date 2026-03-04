@@ -23,7 +23,6 @@ Category: member
 
 
 **Social Media**
-X: @mitchell_cokain
 Twitter: @JBstormtracker
 Instagram: @stormtracker2
 LinkedIn: Jacob Biondo
