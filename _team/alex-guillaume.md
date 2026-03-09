@@ -1,6 +1,6 @@
 ---
 title: "Alex Guillaume"
-excerpt: "Project Member<br/>"
+excerpt: "Committee Member<br/>"
 collection: team
 category: committee
 ---
