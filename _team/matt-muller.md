@@ -1,6 +1,6 @@
 ---
 title: "Matt Muller"
-excerpt: "Committee Member<br/>"
+excerpt: "Project Committee Member<br/>"
 collection: team
 category: committee
 ---
