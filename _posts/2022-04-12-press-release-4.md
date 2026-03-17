@@ -1,7 +1,7 @@
 ---
 title: 'LNP|LancasterOnline News Feature'
 date: 2022-04-12
-permalink: /posts/2022/04/LNP-News_Feature/
+permalink: /posts/2022/04/LNP-News-Feature/
 tags:
   - TILTTING
   - Press Releases

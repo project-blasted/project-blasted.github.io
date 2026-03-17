@@ -1,7 +1,7 @@
 ---
 title: 'CBS21 News Feature'
 date: 2023-02-20
-permalink: /posts/2023/02/CBS21-News_Feature/
+permalink: /posts/2023/02/CBS21-News-Feature/
 tags:
   - TILTTING
   - Press Releases

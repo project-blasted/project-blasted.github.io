@@ -1,7 +1,7 @@
 ---
 title: 'EastPennSD News Feature'
 date: 2022-02-28
-permalink: /posts/2022/02/EastPennSD-News_Feature/
+permalink: /posts/2022/02/EastPennSD-News-Feature/
 tags:
   - TILTTING
   - Press Releases
