@@ -2,7 +2,7 @@
 title: "Jacob Biondo"
 excerpt: "Project Member<br/>"
 collection: team
-Category: member
+category: member
 ---
 
 
