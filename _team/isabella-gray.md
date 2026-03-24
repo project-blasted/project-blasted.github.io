@@ -1,5 +1,5 @@
 ---
-title: "Kayla Rooney"
+title: "Isabella Gray"
 excerpt: "Project Member<br/>"
 collection: team
 category: member
