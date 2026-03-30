@@ -3,7 +3,7 @@ title: "AccuWeather"
 collection: sponsors
 permalink: /sponsors/accuweather
 excerpt: "AccuWeather recognizes the importance of accuracy and timely warnings to prevent injury and save lives. This involves providing clear and true communication to the public, while continuing the mission of public safety. We have offered TILTTING a corporate sponsorship, as the data acquired through their research will continue and further enhance the success of our mission."
-image: /images/accu.png
+image: (/images/accu.png)
 
 ---
 ![AccuWeather Image](/images/accu.png)
