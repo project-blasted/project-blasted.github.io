@@ -14,7 +14,7 @@ category: member
 * Major in Meteorology
 * Minor in Geospatial Applications
 * Campus Weather Service Lead Forecaster 
-* MU-AMS Member
+* MU-AMS Historian ('26-'27)
 * Weather Balloon Team Member
 * SKYWARN Spotter
 

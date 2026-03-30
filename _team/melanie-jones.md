@@ -12,7 +12,7 @@ category: lead
 * Major in Meteorology
 * Minor in Mathematics
 * Campus Weather Service Lead Forecaster
-* MU AMS President ('25-'26)
+* MU AMS President ('25-'26), Vice President ('26-'27)
 * Weather Balloon Team Member
 * SKYWARN Spotter
 * NWC REU Alum

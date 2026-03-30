@@ -14,7 +14,7 @@ category: member
 * Major in Meteorology 
 * Minor in Emergency Management
 * Campus Weather Service Lead Forecaster
-* MU-AMS Historian ('24-'25)
+* MU-AMS Historian ('24-'25), Webmaster ('26-'27)
 * MU-AMS sub club Millersville Storm Track (MiST) Co-Lead
 * SKYWARN Spotter
 
