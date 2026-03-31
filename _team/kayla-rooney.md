@@ -14,7 +14,7 @@ category: member
 * Major in Meteorology
 * Minor in Emergency Management
 * Campus Weather Service Lead Forecaster
-* MU AMS Historian ('25-'26)
+* MU AMS Historian ('25-'26), DEI Officer ('26-'27)
 * Weather Balloon Team Lead
 * SKYWARN Spotter
 * CERT certified

@@ -13,7 +13,7 @@ category: committee
 * Class of 2027
 * Major in Meteorology and Mathematics
 * Campus Weather Service Lead Forecaster
-* MU AMS Member
+* MU AMS Secretary ('26-'27)
 * Weather Balloon Team Member
 
 

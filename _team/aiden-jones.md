@@ -6,19 +6,15 @@ category: member
 ---
 
 
-<img src="/images/kayla-rooney.jpg" alt="Kayla Rooney" width="384" height="384">
+<img src="/images/aiden-jones.jpg" alt="Aiden Jones" width="384" height="384">
 
 
 **Meteorological Accolades**
 * Class of 2027
 * Major in Meteorology
-* Minor in Emergency Management
-* Campus Weather Service Lead Forecaster
-* MU AMS Historian ('25-'26)
-* Weather Balloon Team Lead
+* MU AMS Treasurer ('26-'27)
 * SKYWARN Spotter
-* CERT certified
 
 
 **Biography**  
-Kayla Rooney is a meteorology major and is hoping to pursue an emergency management minor at Millersville University. She is from Warminster, PA where she was deathly afraid of thunderstorms growing up. As she got older, Kayla started to love going outside and watching the storms roll in over her house. This fascination has made her want to research supercells and tornadoes as well as the reaction time and preparedness of emergency alerts to the public. Outside of meteorology, she loves playing with her rabbit, crocheting, singing and playing instruments (ukulele and piano), playing video games with friends, and spending time with family.
+Aiden Jones is a meteorology major at Millersville University from Emporium, Pennsylvania. He became fascinated with weather during a locally significant flooding event on December 1, 2010 which further broadened into different meteorological topics, including severe weather and tropical cyclones. He is currently looking to gain a better understanding of different mesoscale interactions between supercells, multicellular systems, and the boundary layer that can enhance genesis of tornadoes. Outside of meteorology, he tends to spend time with his cats, family, and friends. He also enjoys playing sports, video games, and his alto saxophone, for which he won the John Philip Sousa Award in his senior year of high school.
