@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to the Project BLASTED website"
+title: "Welcome to the Project TILTTING-BL website"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,7 +13,7 @@ Our project consists of student meteorologists from Millersville University. To 
 # Project History and Our Inspiration
 Our project seeks to build on the previous deployments of the Thermodynamic Investigation into LCL Thresholds at Tornadogenesis and its Influence in the Northeast and Great Plains (TILTTING) Project and focus on a new question. Our Project reorients the goals of TILTTING by studying environmental changes during the evening transition, and how they impact supercell behavior, including tornadogenesis.
 
-Project BLASTED took inspriation from Dr. Greg Blumberg's dissertation, along with Project TILTTING, and we found what we could research. BLASTED stands for Boundary Layer Analysis of Supercells and Tornadoes during the Evening Diurnal transition. We strive to conduct field research that will provide us with the data we will use, and then we will analyze the data to hopefully find how the evening transition impacts supercells and tornadogenesis.
+Project TILTTING-BL took inspriation from Dr. Greg Blumberg's dissertation, along with Project TILTTING, and we found what we could research. BLASTED stands for Boundary Layer Analysis of Supercells and Tornadoes during the Evening Diurnal transition. We strive to conduct field research that will provide us with the data we will use, and then we will analyze the data to hopefully find how the evening transition impacts supercells and tornadogenesis.
 
 * To learn more about Project TILTTING, click [here](/files/2024%20TILTTING%20PROPOSAL.pdf)
 * To read Dr. Blumberg's dissertation, click [here](https://shareok.org/items/335275ad-261e-42a3-899b-b0ce31831dc8)
