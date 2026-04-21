@@ -8,13 +8,6 @@ tags:
   - Project update
 ---
 
+<img src="/images/group+pic.webp" width="869" height="647">
+
 The East Penn School District published an article regarding Shane's success after graduating from High School in 2019, including discussing about the project itself. Read the article [here](https://www.eastpennsd.org/article/martrich-19-co-leads-project-tiltting-tornado-research-project/)
-
-Headings are cool
-======
-
-You can have many headings
-======
-
-Aren't headings cool?
-------
